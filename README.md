@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">- My name is Berkin. I am a 3rd year computer engineering student.<br>- I'm learning Java and C#</p>
+<p align="left">- My name is Berkin. I am a 4th year computer engineering student.<br>- I'm learning Java and C#</p>
 
 ###
 
