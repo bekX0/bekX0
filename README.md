@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">- My name is Berkin. I am a 4th year computer engineering student.<br>- I'm learning AI and Java</p>
+<p align="left">- Berkin<br>- Msc. Informatics TUM</p>
 
 ###
 
